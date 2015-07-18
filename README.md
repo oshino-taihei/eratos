@@ -15,6 +15,6 @@ $ ruby eratos.rb 30
 ```
 $ git clone https://github.com/oshino-taihei/eratos.git
 $ gem install bundler
-$ ruby local 2.1.1
+$ rbenv local 2.1.1
 $ bundle install
 ```
